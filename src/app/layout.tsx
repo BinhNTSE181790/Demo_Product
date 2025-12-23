@@ -2,8 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Capstone Project",
-  description: "Professional Next.js application with TypeScript and Tailwind CSS",
+  title: "Kafi Stock dashboard",
 };
 
 export default function RootLayout({
